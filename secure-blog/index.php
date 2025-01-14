@@ -2,11 +2,12 @@
     <div class="container-fluid">
         <div class="row">
             <!-- Admin Panel (Left Side) -->
-            <div class="col-md-3 bg-light p-3">
+            <div class="col-md-3">
                 <h4>Admin Panel</h4>
-                <a href="login.php" class="btn btn-primary mb-2">Login</a>
-                <a href="register.php" class="btn btn-success mb-2">Register</a>
-                <a href="create_post.php" class="btn btn-warning mb-2">Create Post</a>
+                <a href="login.php" class="btn btn-primary">Login</a>
+                <a href="register.php" class="btn btn-success">Register</a>
+                <a href="create_post.php" class="btn btn-warning">Create Post</a>
+                <a href="delete_post.php" class="btn btn-warning">Delete Post</a>
                 <a href="logout.php" class="btn btn-danger">Logout</a>
             </div>
 
